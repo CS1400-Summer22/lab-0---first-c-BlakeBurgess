@@ -1,0 +1,15 @@
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\bin\Debug\net6.0\lab-0---first-c-BlakeBurgess.exe
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\bin\Debug\net6.0\lab-0---first-c-BlakeBurgess.deps.json
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\bin\Debug\net6.0\lab-0---first-c-BlakeBurgess.runtimeconfig.json
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\bin\Debug\net6.0\lab-0---first-c-BlakeBurgess.dll
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\bin\Debug\net6.0\lab-0---first-c-BlakeBurgess.pdb
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.csproj.AssemblyReference.cache
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.AssemblyInfoInputs.cache
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.AssemblyInfo.cs
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.dll
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\refint\lab-0---first-c-BlakeBurgess.dll
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.pdb
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\lab-0---first-c-BlakeBurgess.genruntimeconfig.cache
+C:\Users\Greg\Desktop\code\my-code-dir\lab-0---first-c-BlakeBurgess\obj\Debug\net6.0\ref\lab-0---first-c-BlakeBurgess.dll
